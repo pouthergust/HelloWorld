@@ -1,12 +1,19 @@
+/* GLOBAL */
 html, body {
   padding: 0;
   margin: 0;
-  font-family: Arial, Helvetica, Impact, sans-serif;
-  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
 }
-
+a {
+  text-decoration:none;
+  color: white;
+}
 /* HEADER */
-.top {
+header {
+  text-align: center;
+}
+header .top {
   margin-top: 10px;
 }
 
@@ -28,8 +35,9 @@ img{
   max-width: 100%;
 }
 .slides article h2 {
-  font-size: 20px;
-  color: #686868;
+  font-family: 'Eagle Lake', cursive;
+  font-size: 1.3rem;
+  color: #494747;
   margin-bottom: 25px;
 }
 p {
@@ -41,18 +49,16 @@ p {
 footer {
   height: 30px;
   margin: 20px;
-  justify-content: center;
+  text-align: center;
 }
 
-#bottom a{
-  text-decoration:none;
+button{
+  border:none;
   background-color:#ff0000;
-  margin-left: 45%;
   padding:10px;
-  color: white;
   transition: 0.5s;
 }
-#bottom a:hover{
+button:hover{
   background-color:#a00000;
 }
 
