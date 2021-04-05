@@ -9,6 +9,11 @@ a {
   text-decoration:none;
   color: white;
 }
+img {
+  max-width: 90vw;
+  text-align: center;
+}
+
 /* HEADER */
 header {
   text-align: center;
@@ -17,19 +22,16 @@ header .top {
   margin-top: 10px;
 }
 
-
 /* MAIN */
 .slides {
   max-width: 1100px;
-  margin: 0 auto;
+  margin: auto;
   padding: 0 15px;
   text-align: center;
 }
-img{
-  max-width: 90vw;
-}
+
 .slides article {
-  margin: 30px 0;
+  margin: auto;
 }
 .slides article img {
   max-width: 100%;
@@ -41,6 +43,7 @@ img{
   margin-bottom: 25px;
 }
 p {
+  padding: 10px;
   text-align: justify;
   text-indent: 25px
 }
