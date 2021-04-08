@@ -1,8 +1,15 @@
 # HelloWorld
  First repository created on the desktop app
 
-Created in a Curso em video's live class
+## What's this?
 
-It was created only just to pratice my initial knowledge
+This is the first repository that I commit. Credits: Curso em video
+The layout was based on a theme based on a sociology class that I had many years ago, but I managed to reuse it for tests and to pratice my initial knowledge
 
-IN PROGRESS...
+## Technologies
+
+* HTML
+* CSS
+
+IN PROGRESS... 🚧
+#nerverStopLearning🚀
